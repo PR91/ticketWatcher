@@ -1,0 +1,28 @@
+[
+  {
+    "homeTeam": {
+      "name": "FC PORTO",
+      "picture": "http://loja.fcporto.pt/IncFCP/Imagens/logos/EquipaEsq_364.png"
+    },
+    "awayTeam": {
+      "name": "RB Leipzig",
+      "picture": "http://loja.fcporto.pt/IncFCP/Imagens/logos/EquipaDir_364.png"
+    },
+    "competition": "Liga dos Campeões",
+    "gameTime": "Quarta-Feira, 1 de Novembro de 2017 (19H45)",
+    "gamePlace": "Estádio do Dragão"
+  },
+  {
+    "homeTeam": {
+      "name": "FC PORTO",
+      "picture": "http://loja.fcporto.pt/IncFCP/Imagens/logos/EquipaEsq_369.png"
+    },
+    "awayTeam": {
+      "name": "CF Os Belenenses",
+      "picture": "http://loja.fcporto.pt/IncFCP/Imagens/logos/EquipaDir_369.png"
+    },
+    "competition": "LIGA NOS 2017/2018",
+    "gameTime": "Sábado, 4 de Novembro de 2017 (20H30)",
+    "gamePlace": "Estádio do Dragão"
+  }
+]
